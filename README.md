@@ -6,5 +6,5 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JayArrowz" />
 </a>
 <a href="https://github.com/jayarrowz">
-  <img src="https://github-readme-stats-ochre-three.vercel.app/api/wakatime?username=@JayArrowz" />
+  <img align="center" src="https://github-readme-stats-ochre-three.vercel.app/api/wakatime?username=@JayArrowz" />
 </a>
