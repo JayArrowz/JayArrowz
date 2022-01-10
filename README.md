@@ -1,9 +1,20 @@
-<a href="https://github.com/jayarrowz">
-  <img align="center" src="https://github-readme-stats-ochre-three.vercel.app/api?username=JayArrowz&count_private=true&show_icons=true&theme=radical" />
-</a>
-<a href="https://github.com/jayarrowz">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JayArrowz" />
-</a>
-
-Time coded since sept 2020:
-<a href="https://wakatime.com/@ed89fe6f-1e2d-4bfb-925c-df260bce8af4"><img src="https://wakatime.com/badge/user/ed89fe6f-1e2d-4bfb-925c-df260bce8af4.svg" alt="Total time coded since Sep 20 2020" /></a>
+<table align="center">
+    <tbody>
+        <tr valign="top">
+            <td align="center" style="padding=0;width=50%;">
+              <a href="https://github.com/Nozemi/">
+                <img src="https://readme-stats.nozemi.io/api/?username=JayArrowz&title_color=6842e7&text_color=ffffff&show_icons=true&bg_color=00000000&hide_border=true&icon_color=6842e7&hide_title=true&count_private=true&include_all_commits=true&enable_animations=true" /></a>
+            </td>
+            <td align="center" style="padding=0;width=50%;">
+              <a href="https://github.com/Nozemi/">
+                <img src="https://readme-stats.nozemi.io/api/top-langs/?username=JayArrowz&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&title_color=6842e7&text_color=9f9f9f&show_icons=true&bg_color=00000000&hide_border=true&icon_color=6842e7&hide_title=true&count_private=true&enable_animations=true" /></a>
+            </td>
+        </tr>
+        <tr>
+            <td align="center" style="padding=0;width=50%;" colspan="2">
+              <a href="https://github.com/Nozemi/">
+                <img src="https://github-readme-streak-stats.herokuapp.com?user=JayArrowz&theme=github-dark&hide_border=true&date_format=j%20M%5B%20Y%5D&fire=CEDDF5CD&background=DD272700&stroke=6842E7&dates=6842E7&ring=6842E7" /></a>
+            </td>
+        </tr>
+    </tbody>
+</table>
