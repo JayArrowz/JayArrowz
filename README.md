@@ -13,7 +13,7 @@
         <tr>
             <td align="center" style="padding=0;width=50%;" colspan="2">
               <a href="https://github.com/JayArrowz/">
-                <img src="https://github-readme-streak-stats.herokuapp.com?user=JayArrowz&theme=github-dark&hide_border=true&date_format=j%20M%5B%20Y%5D&fire=CEDDF5CD&background=DD272700&stroke=6842E7&dates=6842E7&ring=6842E7" /></a>
+                <img src="https://streak-stats.demolab.com/?user=JayArrowz&theme=github-dark&hide_border=true&fire=CEDDF5CD&background=DD272700&stroke=6842E7" /></a>
             </td>
         </tr>
     </tbody>
