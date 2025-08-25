@@ -1,5 +1,6 @@
 # 💫 About Me:
 [![wakatime](https://wakatime.com/badge/user/ed89fe6f-1e2d-4bfb-925c-df260bce8af4.svg)](https://wakatime.com/@ed89fe6f-1e2d-4bfb-925c-df260bce8af4)
+![Profile Views](https://komarev.com/ghpvc/?username=jayarrowz&abbreviated=true)
 
 About me<br>🔭 I'm currently working on **various C# libraries and tools** for different domains and use cases<br><br>👯 I'm looking to collaborate on **open-source C# projects**, **NuGet packages**, and **developer tooling**<br><br>🤝 I'm looking for help with **community feedback on my libraries** and **ideas for useful tools developers need**<br><br>🌱 I'm currently learning **new .NET features** and **exploring different problem domains** to build solutions for<br><br>💬 Ask me about **C# development**, **library design**, **NuGet packaging**, or **any random coding challenges**<br><br>⚡ Fun fact: I build random libraries for fun - you never know what useful tool might emerge from a weekend coding session! 📚✨
 
