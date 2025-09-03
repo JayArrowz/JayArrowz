@@ -12,6 +12,18 @@ About me<br>🔭 I'm currently working on **various C# libraries and tools** for
 ![](https://nirzak-streak-stats.vercel.app/?user=JayArrowz&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=JayArrowz&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+
+## 📓 NuGet Packages
+
+- **SignalRHubDocs** [![NuGet](https://img.shields.io/nuget/v/SignalRHubDocs.svg)](https://www.nuget.org/packages/SignalRHubDocs)  
+  Auto-generated documentation and interactive testing interface for ASP.NET Core SignalR hubs. Provides Swagger-like functionality for real-time applications with automatic hub discovery, schema generation, multi-protocol support, authentication handling, and live message monitoring.
+
+- **CompactPack** [![NuGet](https://img.shields.io/nuget/v/CompactPack.svg)](https://www.nuget.org/packages/CompactPack)  
+  A high-performance .NET library for efficient bit packing that stores multiple values in a single integer with minimal memory usage. Features range-based automatic bit calculation, multiple storage types (32/64/256-bit, BigInteger), and type-safe field validation.
+
+- **NSubstituteConcrete** [![NuGet](https://img.shields.io/nuget/v/NSubstituteConcrete.svg)](https://www.nuget.org/packages/NSubstituteConcrete)  
+  Extends NSubstitute to support mocking concrete classes and static methods using Harmony runtime patching. Mock non-virtual methods, static methods, and sealed classes with familiar NSubstitute syntax.
+
 ## 🏆 GitHub Trophies
 ![](https://trophygh.kolioaris.xyz/?username=JayArrowz&theme=dark&no-frame=false&no-bg=false&margin-w=4)
 
