@@ -15,14 +15,21 @@ About me<br>🔭 I'm currently working on **various C# libraries and tools** for
 
 ## 📓 NuGet Packages
 
-- **SignalRHubDocs** [![NuGet](https://img.shields.io/nuget/v/SignalRHubDocs.svg)](https://www.nuget.org/packages/SignalRHubDocs)  
+- **SignalRHubDocs**  
+  [![NuGet](https://img.shields.io/nuget/v/SignalRHubDocs.svg)](https://www.nuget.org/packages/SignalRHubDocs)  
+  [![GitHub](https://img.shields.io/github/stars/JayArrowz/SignalRHubDocs?style=social)](https://github.com/JayArrowz/SignalRHubDocs)  
   Auto-generated documentation and interactive testing interface for ASP.NET Core SignalR hubs. Provides Swagger-like functionality for real-time applications with automatic hub discovery, schema generation, multi-protocol support, authentication handling, and live message monitoring.
 
-- **CompactPack** [![NuGet](https://img.shields.io/nuget/v/CompactPack.svg)](https://www.nuget.org/packages/CompactPack)  
+- **CompactPack**  
+  [![NuGet](https://img.shields.io/nuget/v/CompactPack.svg)](https://www.nuget.org/packages/CompactPack)  
+  [![GitHub](https://img.shields.io/github/stars/JayArrowz/CompactPack?style=social)](https://github.com/JayArrowz/CompactPack)  
   A high-performance .NET library for efficient bit packing that stores multiple values in a single integer with minimal memory usage. Features range-based automatic bit calculation, multiple storage types (32/64/256-bit, BigInteger), and type-safe field validation.
 
-- **NSubstituteConcrete** [![NuGet](https://img.shields.io/nuget/v/NSubstituteConcrete.svg)](https://www.nuget.org/packages/NSubstituteConcrete)  
+- **NSubstituteConcrete**  
+  [![NuGet](https://img.shields.io/nuget/v/NSubstituteConcrete.svg)](https://www.nuget.org/packages/NSubstituteConcrete)  
+  [![GitHub](https://img.shields.io/github/stars/JayArrowz/NSubstituteConcrete?style=social)](https://github.com/JayArrowz/NSubstituteConcrete)  
   Extends NSubstitute to support mocking concrete classes and static methods using Harmony runtime patching. Mock non-virtual methods, static methods, and sealed classes with familiar NSubstitute syntax.
+
 
 ## 🏆 GitHub Trophies
 ![](https://trophygh.kolioaris.xyz/?username=JayArrowz&theme=dark&no-frame=false&no-bg=false&margin-w=4)
