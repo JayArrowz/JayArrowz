@@ -13,7 +13,7 @@ About me<br>🔭 I'm currently working on **various C# libraries and tools** for
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=JayArrowz&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
-## 📓 NuGet Packages
+## 📓 Libraries
 
 - **SignalRHubDocs**  
   [![NuGet](https://img.shields.io/nuget/v/SignalRHubDocs.svg)](https://www.nuget.org/packages/SignalRHubDocs)  
@@ -29,6 +29,11 @@ About me<br>🔭 I'm currently working on **various C# libraries and tools** for
   [![NuGet](https://img.shields.io/nuget/v/NSubstituteConcrete.svg)](https://www.nuget.org/packages/NSubstituteConcrete)  
   [![GitHub](https://img.shields.io/github/stars/JayArrowz/NSubstituteConcrete?style=social)](https://github.com/JayArrowz/NSubstituteConcrete)  
   Extends NSubstitute to support mocking concrete classes and static methods using Harmony runtime patching. Mock non-virtual methods, static methods, and sealed classes with familiar NSubstitute syntax.
+
+- **Topiray Auth React Component Library**  
+  [![npm version](https://img.shields.io/npm/v/topiray-auth-react.svg)](https://www.npmjs.com/package/topiray-auth-react)  
+  [![GitHub](https://img.shields.io/github/stars/topiray/topiray-auth-react?style=social)](https://github.com/topiray/topiray-auth-react)  
+  A comprehensive, themeable React component library for authentication flows. Built with TypeScript and CSS Modules, featuring complete auth flows (sign in/up, 2FA, email verification), customizable social login providers, responsive design, full accessibility support, and extensive theming capabilities.
 
 
 ## 🏆 GitHub Trophies
