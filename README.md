@@ -35,6 +35,10 @@ About me<br>🔭 I'm currently working on **various C# libraries and tools** for
   [![GitHub](https://img.shields.io/github/stars/topiray/topiray-auth-react?style=social)](https://github.com/topiray/topiray-auth-react)  
   A comprehensive, themeable React component library for authentication flows. Built with TypeScript and CSS Modules, featuring complete auth flows (sign in/up, 2FA, email verification), customizable social login providers, responsive design, full accessibility support, and extensive theming capabilities.
 
+- **ConfigVault**  
+  [![NuGet](https://img.shields.io/nuget/v/ConfigVault.Client.svg)](https://www.nuget.org/packages/ConfigVault.Client)  
+  [![GitHub](https://img.shields.io/github/stars/JayArrowz/ConfigVault?style=social)](https://github.com/JayArrowz/ConfigVault)  
+  A configuration management platform with versioning, encryption, rollback support, role-based access control, and full audit logging. Includes a React frontend dashboard and a .NET API backend.
 
 ## 🏆 GitHub Trophies
 ![](https://trophygh.kolioaris.xyz/?username=JayArrowz&theme=dark&no-frame=false&no-bg=false&margin-w=4)
