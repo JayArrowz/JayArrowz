@@ -40,6 +40,11 @@ About me<br>🔭 I'm currently working on **various C# libraries and tools** for
   [![GitHub](https://img.shields.io/github/stars/JayArrowz/ConfigVault?style=social)](https://github.com/JayArrowz/ConfigVault)  
   A configuration management platform with versioning, encryption, rollback support, role-based access control, and full audit logging. Includes a React frontend dashboard and a .NET API backend.
 
+- **ShardWorker**  
+  [![NuGet](https://img.shields.io/nuget/v/ShardWorker.svg)](https://www.nuget.org/packages/ShardWorker)  
+  [![GitHub](https://img.shields.io/github/stars/JayArrowz/ConfigVault?style=social)](https://github.com/JayArrowz/ShardWorker)  
+  A lightweight .NET library for running distributed, sharded background workers coordinated by database locks. Multiple instances of your application compete for ownership of numbered shards
+  
 ## 🏆 GitHub Trophies
 ![](https://trophygh.kolioaris.xyz/?username=JayArrowz&theme=dark&no-frame=false&no-bg=false&margin-w=4)
 
