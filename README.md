@@ -42,8 +42,13 @@ About me<br>🔭 I'm currently working on **various C# libraries and tools** for
 
 - **ShardWorker**  
   [![NuGet](https://img.shields.io/nuget/v/ShardWorker.svg)](https://www.nuget.org/packages/ShardWorker)  
-  [![GitHub](https://img.shields.io/github/stars/JayArrowz/ConfigVault?style=social)](https://github.com/JayArrowz/ShardWorker)  
+  [![GitHub](https://img.shields.io/github/stars/JayArrowz/ShardWorker?style=social)](https://github.com/JayArrowz/ShardWorker)  
   A lightweight .NET library for running distributed, sharded background workers coordinated by database locks. Multiple instances of your application compete for ownership of numbered shards
+  
+- **DistributedRateLimiter**  
+  [![NuGet](https://img.shields.io/nuget/v/DistributedRateLimiter.svg)](https://www.nuget.org/packages/DistributedRateLimiter)  
+  [![GitHub](https://img.shields.io/github/stars/JayArrowz/DistributedRateLimiter?style=social)](https://github.com/JayArrowz/DistributedRateLimiter)  
+  Distributed rate limiting for .NET backed by your existing database. No Redis, no message broker, no extra infrastructure.
   
 ## 🏆 GitHub Trophies
 ![](https://trophygh.kolioaris.xyz/?username=JayArrowz&theme=dark&no-frame=false&no-bg=false&margin-w=4)
