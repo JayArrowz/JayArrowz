@@ -15,6 +15,12 @@ About me<br>🔭 I'm currently working on **various C# libraries and tools** for
 
 ## 📓 Libraries
 
+- **CodeRag**  
+  [![npm version](https://img.shields.io/npm/v/@jayarrowz/mcp-coderag?logo=npm)](https://www.npmjs.com/package/@jayarrowz/mcp-coderag)  
+  [![GHCR image](https://img.shields.io/badge/GHCR-coderag%2Fcoderag-blue?logo=github)](https://github.com/JayArrowz/CodeRag/pkgs/container/coderag%2Fcoderag)  
+  [![GitHub](https://img.shields.io/github/stars/JayArrowz/CodeRag?style=social)](https://github.com/JayArrowz/CodeRag)  
+  Hybrid vector + call-graph code indexer for RAG — semantic search over C# and TypeScript codebases with live file-watch reindexing
+  
 - **SignalRHubDocs**  
   [![NuGet](https://img.shields.io/nuget/v/SignalRHubDocs.svg)](https://www.nuget.org/packages/SignalRHubDocs)  
   [![GitHub](https://img.shields.io/github/stars/JayArrowz/SignalRHubDocs?style=social)](https://github.com/JayArrowz/SignalRHubDocs)  
