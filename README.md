@@ -34,7 +34,129 @@
 <br />
 <br />
 
-## 📚 Featured Libraries
+
+## 🤖 MCP Servers
+
+<table>
+<tr>
+<td valign="top" width="33%">
+
+<h3>
+  <a href="https://github.com/JayArrowz/mcp-osrs">mcp-osrs</a>
+</h3>
+
+MCP server for helping AI understand Old School RuneScape through OSRS Wiki search and game data definitions.
+
+<br />
+
+<a href="https://www.npmjs.com/package/@jayarrowz/mcp-osrs">
+  <img src="https://img.shields.io/npm/v/@jayarrowz/mcp-osrs.svg?style=flat-square&logo=npm" alt="npm version" />
+</a>
+<a href="https://github.com/JayArrowz/mcp-osrs/stargazers">
+  <img src="https://img.shields.io/github/stars/JayArrowz/mcp-osrs?style=flat-square" alt="GitHub stars" />
+</a>
+
+</td>
+<td valign="top" width="33%">
+
+<h3>
+  <a href="https://github.com/JayArrowz/mcp-arsr">mcp-arsr</a>
+</h3>
+
+Adaptive Retrieval-Augmented Self-Refinement MCP server that lets LLMs iteratively verify and correct claims using uncertainty-guided retrieval.
+
+<br />
+
+<a href="https://www.npmjs.com/package/@jayarrowz/mcp-arsr">
+  <img src="https://img.shields.io/npm/v/@jayarrowz/mcp-arsr.svg?style=flat-square&logo=npm" alt="npm version" />
+</a>
+<a href="https://github.com/JayArrowz/mcp-arsr/stargazers">
+  <img src="https://img.shields.io/github/stars/JayArrowz/mcp-arsr?style=flat-square" alt="GitHub stars" />
+</a>
+
+</td>
+<td valign="top" width="33%">
+
+<h3>
+  <a href="https://github.com/thirdstrandstudio/mcp-tool-chainer">mcp-tool-chainer</a>
+</h3>
+
+MCP server that chains calls to other MCP tools, passing results between steps to reduce token usage and automate multi-tool workflows.
+
+<br />
+
+<a href="https://www.npmjs.com/package/@thirdstrandstudio/mcp-tool-chainer">
+  <img src="https://img.shields.io/npm/v/@thirdstrandstudio/mcp-tool-chainer.svg?style=flat-square&logo=npm" alt="npm version" />
+</a>
+<a href="https://github.com/thirdstrandstudio/mcp-tool-chainer/stargazers">
+  <img src="https://img.shields.io/github/stars/thirdstrandstudio/mcp-tool-chainer?style=flat-square" alt="GitHub stars" />
+</a>
+
+</td>
+</tr>
+
+<tr>
+<td valign="top" width="33%">
+
+<h3>
+  <a href="https://github.com/thirdstrandstudio/mcp-yeoman">mcp-yeoman</a>
+</h3>
+
+MCP server for integrating with Yeoman generators, allowing AI agents to search for and run project scaffolding templates.
+
+<br />
+
+<a href="https://www.npmjs.com/package/@thirdstrandstudio/mcp-yeoman">
+  <img src="https://img.shields.io/npm/v/@thirdstrandstudio/mcp-yeoman.svg?style=flat-square&logo=npm" alt="npm version" />
+</a>
+<a href="https://github.com/thirdstrandstudio/mcp-yeoman/stargazers">
+  <img src="https://img.shields.io/github/stars/thirdstrandstudio/mcp-yeoman?style=flat-square" alt="GitHub stars" />
+</a>
+
+</td>
+<td valign="top" width="33%">
+
+<h3>
+  <a href="https://github.com/thirdstrandstudio/mcp-xpath">mcp-xpath</a>
+</h3>
+
+MCP server for executing XPath queries against XML or HTML content, including direct content input and URL-based querying.
+
+<br />
+
+<a href="https://www.npmjs.com/package/@thirdstrandstudio/mcp-xpath">
+  <img src="https://img.shields.io/npm/v/@thirdstrandstudio/mcp-xpath.svg?style=flat-square&logo=npm" alt="npm version" />
+</a>
+<a href="https://github.com/thirdstrandstudio/mcp-xpath/stargazers">
+  <img src="https://img.shields.io/github/stars/thirdstrandstudio/mcp-xpath?style=flat-square" alt="GitHub stars" />
+</a>
+
+</td>
+<td valign="top" width="33%">
+
+<h3>
+  <a href="https://github.com/thirdstrandstudio/mcp-figma">mcp-figma</a>
+</h3>
+
+Figma MCP server with broad Figma API coverage, giving AI agents access to files, nodes, images, versions, comments, projects, teams, and more.
+
+<br />
+
+<a href="https://www.npmjs.com/package/@thirdstrandstudio/mcp-figma">
+  <img src="https://img.shields.io/npm/v/@thirdstrandstudio/mcp-figma.svg?style=flat-square&logo=npm" alt="npm version" />
+</a>
+<a href="https://github.com/thirdstrandstudio/mcp-figma/stargazers">
+  <img src="https://img.shields.io/github/stars/thirdstrandstudio/mcp-figma?style=flat-square" alt="GitHub stars" />
+</a>
+
+</td>
+</tr>
+</table>
+
+<br />
+<br />
+
+## 📚 Full-Stack Projects
 
 <table>
 <tr>
@@ -213,128 +335,6 @@ A comprehensive, themeable React component library for authentication flows. Inc
 <h3>More coming soon...</h3>
 
 I build random libraries for fun, so this section will probably keep growing.
-
-</td>
-</tr>
-</table>
-
-<br />
-<br />
-
-
-## 🤖 MCP Servers
-
-<table>
-<tr>
-<td valign="top" width="33%">
-
-<h3>
-  <a href="https://github.com/JayArrowz/mcp-osrs">mcp-osrs</a>
-</h3>
-
-MCP server for helping AI understand Old School RuneScape through OSRS Wiki search and game data definitions.
-
-<br />
-
-<a href="https://www.npmjs.com/package/@jayarrowz/mcp-osrs">
-  <img src="https://img.shields.io/npm/v/@jayarrowz/mcp-osrs.svg?style=flat-square&logo=npm" alt="npm version" />
-</a>
-<a href="https://github.com/JayArrowz/mcp-osrs/stargazers">
-  <img src="https://img.shields.io/github/stars/JayArrowz/mcp-osrs?style=flat-square" alt="GitHub stars" />
-</a>
-
-</td>
-<td valign="top" width="33%">
-
-<h3>
-  <a href="https://github.com/JayArrowz/mcp-arsr">mcp-arsr</a>
-</h3>
-
-Adaptive Retrieval-Augmented Self-Refinement MCP server that lets LLMs iteratively verify and correct claims using uncertainty-guided retrieval.
-
-<br />
-
-<a href="https://www.npmjs.com/package/@jayarrowz/mcp-arsr">
-  <img src="https://img.shields.io/npm/v/@jayarrowz/mcp-arsr.svg?style=flat-square&logo=npm" alt="npm version" />
-</a>
-<a href="https://github.com/JayArrowz/mcp-arsr/stargazers">
-  <img src="https://img.shields.io/github/stars/JayArrowz/mcp-arsr?style=flat-square" alt="GitHub stars" />
-</a>
-
-</td>
-<td valign="top" width="33%">
-
-<h3>
-  <a href="https://github.com/thirdstrandstudio/mcp-tool-chainer">mcp-tool-chainer</a>
-</h3>
-
-MCP server that chains calls to other MCP tools, passing results between steps to reduce token usage and automate multi-tool workflows.
-
-<br />
-
-<a href="https://www.npmjs.com/package/@thirdstrandstudio/mcp-tool-chainer">
-  <img src="https://img.shields.io/npm/v/@thirdstrandstudio/mcp-tool-chainer.svg?style=flat-square&logo=npm" alt="npm version" />
-</a>
-<a href="https://github.com/thirdstrandstudio/mcp-tool-chainer/stargazers">
-  <img src="https://img.shields.io/github/stars/thirdstrandstudio/mcp-tool-chainer?style=flat-square" alt="GitHub stars" />
-</a>
-
-</td>
-</tr>
-
-<tr>
-<td valign="top" width="33%">
-
-<h3>
-  <a href="https://github.com/thirdstrandstudio/mcp-yeoman">mcp-yeoman</a>
-</h3>
-
-MCP server for integrating with Yeoman generators, allowing AI agents to search for and run project scaffolding templates.
-
-<br />
-
-<a href="https://www.npmjs.com/package/@thirdstrandstudio/mcp-yeoman">
-  <img src="https://img.shields.io/npm/v/@thirdstrandstudio/mcp-yeoman.svg?style=flat-square&logo=npm" alt="npm version" />
-</a>
-<a href="https://github.com/thirdstrandstudio/mcp-yeoman/stargazers">
-  <img src="https://img.shields.io/github/stars/thirdstrandstudio/mcp-yeoman?style=flat-square" alt="GitHub stars" />
-</a>
-
-</td>
-<td valign="top" width="33%">
-
-<h3>
-  <a href="https://github.com/thirdstrandstudio/mcp-xpath">mcp-xpath</a>
-</h3>
-
-MCP server for executing XPath queries against XML or HTML content, including direct content input and URL-based querying.
-
-<br />
-
-<a href="https://www.npmjs.com/package/@thirdstrandstudio/mcp-xpath">
-  <img src="https://img.shields.io/npm/v/@thirdstrandstudio/mcp-xpath.svg?style=flat-square&logo=npm" alt="npm version" />
-</a>
-<a href="https://github.com/thirdstrandstudio/mcp-xpath/stargazers">
-  <img src="https://img.shields.io/github/stars/thirdstrandstudio/mcp-xpath?style=flat-square" alt="GitHub stars" />
-</a>
-
-</td>
-<td valign="top" width="33%">
-
-<h3>
-  <a href="https://github.com/thirdstrandstudio/mcp-figma">mcp-figma</a>
-</h3>
-
-Figma MCP server with broad Figma API coverage, giving AI agents access to files, nodes, images, versions, comments, projects, teams, and more.
-
-<br />
-
-<a href="https://www.npmjs.com/package/@thirdstrandstudio/mcp-figma">
-  <img src="https://img.shields.io/npm/v/@thirdstrandstudio/mcp-figma.svg?style=flat-square&logo=npm" alt="npm version" />
-</a>
-<a href="https://github.com/thirdstrandstudio/mcp-figma/stargazers">
-  <img src="https://img.shields.io/github/stars/thirdstrandstudio/mcp-figma?style=flat-square" alt="GitHub stars" />
-</a>
 
 </td>
 </tr>
