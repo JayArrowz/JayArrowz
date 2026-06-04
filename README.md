@@ -52,7 +52,7 @@ MCP server for helping AI understand Old School RuneScape through OSRS Wiki sear
 <a href="https://www.npmjs.com/package/@jayarrowz/mcp-osrs">
   <img src="https://img.shields.io/npm/v/@jayarrowz/mcp-osrs.svg?style=flat-square&logo=npm" alt="npm version" />
 </a>
-<a href="https://github.com/JayArrowz/mcp-osrs/stargazers">
+<a href="https://github.com/JayArrowz/mcp-osrs/">
   <img src="https://img.shields.io/github/stars/JayArrowz/mcp-osrs?style=flat-square" alt="GitHub stars" />
 </a>
 
@@ -70,7 +70,7 @@ Adaptive Retrieval-Augmented Self-Refinement MCP server that lets LLMs iterative
 <a href="https://www.npmjs.com/package/@jayarrowz/mcp-arsr">
   <img src="https://img.shields.io/npm/v/@jayarrowz/mcp-arsr.svg?style=flat-square&logo=npm" alt="npm version" />
 </a>
-<a href="https://github.com/JayArrowz/mcp-arsr/stargazers">
+<a href="https://github.com/JayArrowz/mcp-arsr/">
   <img src="https://img.shields.io/github/stars/JayArrowz/mcp-arsr?style=flat-square" alt="GitHub stars" />
 </a>
 
@@ -88,7 +88,7 @@ MCP server that chains calls to other MCP tools, passing results between steps t
 <a href="https://www.npmjs.com/package/@thirdstrandstudio/mcp-tool-chainer">
   <img src="https://img.shields.io/npm/v/@thirdstrandstudio/mcp-tool-chainer.svg?style=flat-square&logo=npm" alt="npm version" />
 </a>
-<a href="https://github.com/thirdstrandstudio/mcp-tool-chainer/stargazers">
+<a href="https://github.com/thirdstrandstudio/mcp-tool-chainer/">
   <img src="https://img.shields.io/github/stars/thirdstrandstudio/mcp-tool-chainer?style=flat-square" alt="GitHub stars" />
 </a>
 
@@ -109,7 +109,7 @@ MCP server for integrating with Yeoman generators, allowing AI agents to search 
 <a href="https://www.npmjs.com/package/@thirdstrandstudio/mcp-yeoman">
   <img src="https://img.shields.io/npm/v/@thirdstrandstudio/mcp-yeoman.svg?style=flat-square&logo=npm" alt="npm version" />
 </a>
-<a href="https://github.com/thirdstrandstudio/mcp-yeoman/stargazers">
+<a href="https://github.com/thirdstrandstudio/mcp-yeoman/">
   <img src="https://img.shields.io/github/stars/thirdstrandstudio/mcp-yeoman?style=flat-square" alt="GitHub stars" />
 </a>
 
@@ -127,7 +127,7 @@ MCP server for executing XPath queries against XML or HTML content, including di
 <a href="https://www.npmjs.com/package/@thirdstrandstudio/mcp-xpath">
   <img src="https://img.shields.io/npm/v/@thirdstrandstudio/mcp-xpath.svg?style=flat-square&logo=npm" alt="npm version" />
 </a>
-<a href="https://github.com/thirdstrandstudio/mcp-xpath/stargazers">
+<a href="https://github.com/thirdstrandstudio/mcp-xpath/">
   <img src="https://img.shields.io/github/stars/thirdstrandstudio/mcp-xpath?style=flat-square" alt="GitHub stars" />
 </a>
 
@@ -145,7 +145,7 @@ Figma MCP server with broad Figma API coverage, giving AI agents access to files
 <a href="https://www.npmjs.com/package/@thirdstrandstudio/mcp-figma">
   <img src="https://img.shields.io/npm/v/@thirdstrandstudio/mcp-figma.svg?style=flat-square&logo=npm" alt="npm version" />
 </a>
-<a href="https://github.com/thirdstrandstudio/mcp-figma/stargazers">
+<a href="https://github.com/thirdstrandstudio/mcp-figma/">
   <img src="https://img.shields.io/github/stars/thirdstrandstudio/mcp-figma?style=flat-square" alt="GitHub stars" />
 </a>
 
@@ -176,7 +176,7 @@ Hybrid vector + call-graph code indexer for RAG. Semantic search over C# and Typ
 <a href="https://github.com/JayArrowz/CodeRag/pkgs/container/coderag%2Fcoderag">
   <img src="https://img.shields.io/badge/GHCR-coderag%2Fcoderag-blue?style=flat-square&logo=github" alt="GHCR image" />
 </a>
-<a href="https://github.com/JayArrowz/CodeRag/stargazers">
+<a href="https://github.com/JayArrowz/CodeRag/">
   <img src="https://img.shields.io/github/stars/JayArrowz/CodeRag?style=flat-square" alt="GitHub stars" />
 </a>
 
@@ -194,7 +194,7 @@ Auto-generated documentation and interactive testing interface for ASP.NET Core 
 <a href="https://www.nuget.org/packages/SignalRHubDocs">
   <img src="https://img.shields.io/nuget/v/SignalRHubDocs.svg?style=flat-square" alt="NuGet" />
 </a>
-<a href="https://github.com/JayArrowz/SignalRHubDocs/stargazers">
+<a href="https://github.com/JayArrowz/SignalRHubDocs/">
   <img src="https://img.shields.io/github/stars/JayArrowz/SignalRHubDocs?style=flat-square" alt="GitHub stars" />
 </a>
 
@@ -212,7 +212,7 @@ Configuration management platform with versioning, encryption, rollback support,
 <a href="https://www.nuget.org/packages/ConfigVault.Client">
   <img src="https://img.shields.io/nuget/v/ConfigVault.Client.svg?style=flat-square" alt="NuGet" />
 </a>
-<a href="https://github.com/JayArrowz/ConfigVault/stargazers">
+<a href="https://github.com/JayArrowz/ConfigVault/">
   <img src="https://img.shields.io/github/stars/JayArrowz/ConfigVault?style=flat-square" alt="GitHub stars" />
 </a>
 
@@ -240,7 +240,7 @@ A high-performance .NET library for efficient bit packing that stores multiple v
 <a href="https://www.nuget.org/packages/CompactPack">
   <img src="https://img.shields.io/nuget/v/CompactPack.svg?style=flat-square" alt="NuGet" />
 </a>
-<a href="https://github.com/JayArrowz/CompactPack/stargazers">
+<a href="https://github.com/JayArrowz/CompactPack/">
   <img src="https://img.shields.io/github/stars/JayArrowz/CompactPack?style=flat-square" alt="GitHub stars" />
 </a>
 
@@ -258,7 +258,7 @@ Extends NSubstitute to support mocking concrete classes and static methods using
 <a href="https://www.nuget.org/packages/NSubstituteConcrete">
   <img src="https://img.shields.io/nuget/v/NSubstituteConcrete.svg?style=flat-square" alt="NuGet" />
 </a>
-<a href="https://github.com/JayArrowz/NSubstituteConcrete/stargazers">
+<a href="https://github.com/JayArrowz/NSubstituteConcrete/">
   <img src="https://img.shields.io/github/stars/JayArrowz/NSubstituteConcrete?style=flat-square" alt="GitHub stars" />
 </a>
 
@@ -279,7 +279,7 @@ A lightweight .NET library for running distributed, sharded background workers c
 <a href="https://www.nuget.org/packages/ShardWorker">
   <img src="https://img.shields.io/nuget/v/ShardWorker.svg?style=flat-square" alt="NuGet" />
 </a>
-<a href="https://github.com/JayArrowz/ShardWorker/stargazers">
+<a href="https://github.com/JayArrowz/ShardWorker/">
   <img src="https://img.shields.io/github/stars/JayArrowz/ShardWorker?style=flat-square" alt="GitHub stars" />
 </a>
 
@@ -297,7 +297,7 @@ Distributed rate limiting for .NET backed by your existing database. No Redis, n
 <a href="https://www.nuget.org/packages/DistributedRateLimiter">
   <img src="https://img.shields.io/nuget/v/DistributedRateLimiter.svg?style=flat-square" alt="NuGet" />
 </a>
-<a href="https://github.com/JayArrowz/DistributedRateLimiter/stargazers">
+<a href="https://github.com/JayArrowz/DistributedRateLimiter/">
   <img src="https://img.shields.io/github/stars/JayArrowz/DistributedRateLimiter?style=flat-square" alt="GitHub stars" />
 </a>
 
@@ -325,7 +325,7 @@ A comprehensive, themeable React component library for authentication flows. Inc
 <a href="https://www.npmjs.com/package/topiray-auth-react">
   <img src="https://img.shields.io/npm/v/topiray-auth-react.svg?style=flat-square&logo=npm" alt="npm version" />
 </a>
-<a href="https://github.com/topiray/topiray-auth-react/stargazers">
+<a href="https://github.com/topiray/topiray-auth-react/">
   <img src="https://img.shields.io/github/stars/topiray/topiray-auth-react?style=flat-square" alt="GitHub stars" />
 </a>
 
