@@ -11,22 +11,22 @@
 <br />
 
 <a href="https://github.com/JayArrowz">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,java,js,ts,react,css,python,docker,postgres" alt="Skills" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,java,js,ts,nodejs,react,css,python,docker,postgres,figma" alt="Skills" />
 </a>
 
 <br />
 <br />
 
 <p>
-  🔭 I'm currently working on <strong>various C# libraries and tools</strong> for different domains and use cases.
+  🔭 I'm currently working on <strong>C# libraries</strong>, <strong>developer tooling</strong>, and <strong>MCP servers</strong> for AI-assisted workflows.
   <br />
-  👯 I'm looking to collaborate on <strong>open-source C# projects</strong>, <strong>NuGet packages</strong>, and <strong>developer tooling</strong>.
+  👯 I'm looking to collaborate on <strong>open-source C# projects</strong>, <strong>NuGet packages</strong>, <strong>MCP servers</strong>, and <strong>developer tooling</strong>.
   <br />
   🤝 I'm looking for help with <strong>community feedback on my libraries</strong> and <strong>ideas for useful tools developers need</strong>.
   <br />
-  🌱 I'm currently learning <strong>new .NET features</strong> and exploring different problem domains.
+  🌱 I'm currently learning <strong>new .NET features</strong>, improving AI tooling, and exploring different problem domains.
   <br />
-  💬 Ask me about <strong>C# development</strong>, <strong>library design</strong>, <strong>NuGet packaging</strong>, or random coding challenges.
+  💬 Ask me about <strong>C# development</strong>, <strong>library design</strong>, <strong>NuGet packaging</strong>, <strong>MCP servers</strong>, or random coding challenges.
   <br />
   ⚡ Fun fact: I build random libraries for fun — you never know what useful tool might emerge from a weekend coding session! 📚✨
 </p>
@@ -213,6 +213,128 @@ A comprehensive, themeable React component library for authentication flows. Inc
 <h3>More coming soon...</h3>
 
 I build random libraries for fun, so this section will probably keep growing.
+
+</td>
+</tr>
+</table>
+
+<br />
+<br />
+
+
+## 🤖 MCP Servers
+
+<table>
+<tr>
+<td valign="top" width="33%">
+
+<h3>
+  <a href="https://github.com/JayArrowz/mcp-osrs">mcp-osrs</a>
+</h3>
+
+MCP server for helping AI understand Old School RuneScape through OSRS Wiki search and game data definitions.
+
+<br />
+
+<a href="https://www.npmjs.com/package/@jayarrowz/mcp-osrs">
+  <img src="https://img.shields.io/npm/v/@jayarrowz/mcp-osrs.svg?style=flat-square&logo=npm" alt="npm version" />
+</a>
+<a href="https://github.com/JayArrowz/mcp-osrs/stargazers">
+  <img src="https://img.shields.io/github/stars/JayArrowz/mcp-osrs?style=flat-square" alt="GitHub stars" />
+</a>
+
+</td>
+<td valign="top" width="33%">
+
+<h3>
+  <a href="https://github.com/JayArrowz/mcp-arsr">mcp-arsr</a>
+</h3>
+
+Adaptive Retrieval-Augmented Self-Refinement MCP server that lets LLMs iteratively verify and correct claims using uncertainty-guided retrieval.
+
+<br />
+
+<a href="https://www.npmjs.com/package/@jayarrowz/mcp-arsr">
+  <img src="https://img.shields.io/npm/v/@jayarrowz/mcp-arsr.svg?style=flat-square&logo=npm" alt="npm version" />
+</a>
+<a href="https://github.com/JayArrowz/mcp-arsr/stargazers">
+  <img src="https://img.shields.io/github/stars/JayArrowz/mcp-arsr?style=flat-square" alt="GitHub stars" />
+</a>
+
+</td>
+<td valign="top" width="33%">
+
+<h3>
+  <a href="https://github.com/thirdstrandstudio/mcp-tool-chainer">mcp-tool-chainer</a>
+</h3>
+
+MCP server that chains calls to other MCP tools, passing results between steps to reduce token usage and automate multi-tool workflows.
+
+<br />
+
+<a href="https://www.npmjs.com/package/@thirdstrandstudio/mcp-tool-chainer">
+  <img src="https://img.shields.io/npm/v/@thirdstrandstudio/mcp-tool-chainer.svg?style=flat-square&logo=npm" alt="npm version" />
+</a>
+<a href="https://github.com/thirdstrandstudio/mcp-tool-chainer/stargazers">
+  <img src="https://img.shields.io/github/stars/thirdstrandstudio/mcp-tool-chainer?style=flat-square" alt="GitHub stars" />
+</a>
+
+</td>
+</tr>
+
+<tr>
+<td valign="top" width="33%">
+
+<h3>
+  <a href="https://github.com/thirdstrandstudio/mcp-yeoman">mcp-yeoman</a>
+</h3>
+
+MCP server for integrating with Yeoman generators, allowing AI agents to search for and run project scaffolding templates.
+
+<br />
+
+<a href="https://www.npmjs.com/package/@thirdstrandstudio/mcp-yeoman">
+  <img src="https://img.shields.io/npm/v/@thirdstrandstudio/mcp-yeoman.svg?style=flat-square&logo=npm" alt="npm version" />
+</a>
+<a href="https://github.com/thirdstrandstudio/mcp-yeoman/stargazers">
+  <img src="https://img.shields.io/github/stars/thirdstrandstudio/mcp-yeoman?style=flat-square" alt="GitHub stars" />
+</a>
+
+</td>
+<td valign="top" width="33%">
+
+<h3>
+  <a href="https://github.com/thirdstrandstudio/mcp-xpath">mcp-xpath</a>
+</h3>
+
+MCP server for executing XPath queries against XML or HTML content, including direct content input and URL-based querying.
+
+<br />
+
+<a href="https://www.npmjs.com/package/@thirdstrandstudio/mcp-xpath">
+  <img src="https://img.shields.io/npm/v/@thirdstrandstudio/mcp-xpath.svg?style=flat-square&logo=npm" alt="npm version" />
+</a>
+<a href="https://github.com/thirdstrandstudio/mcp-xpath/stargazers">
+  <img src="https://img.shields.io/github/stars/thirdstrandstudio/mcp-xpath?style=flat-square" alt="GitHub stars" />
+</a>
+
+</td>
+<td valign="top" width="33%">
+
+<h3>
+  <a href="https://github.com/thirdstrandstudio/mcp-figma">mcp-figma</a>
+</h3>
+
+Figma MCP server with broad Figma API coverage, giving AI agents access to files, nodes, images, versions, comments, projects, teams, and more.
+
+<br />
+
+<a href="https://www.npmjs.com/package/@thirdstrandstudio/mcp-figma">
+  <img src="https://img.shields.io/npm/v/@thirdstrandstudio/mcp-figma.svg?style=flat-square&logo=npm" alt="npm version" />
+</a>
+<a href="https://github.com/thirdstrandstudio/mcp-figma/stargazers">
+  <img src="https://img.shields.io/github/stars/thirdstrandstudio/mcp-figma?style=flat-square" alt="GitHub stars" />
+</a>
 
 </td>
 </tr>
