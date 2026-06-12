@@ -303,6 +303,25 @@ Distributed rate limiting for .NET backed by your existing database. No Redis, n
 
 </td>
 </tr>
+
+<tr>
+<td valign="top" width="50%">
+
+<h3>
+  <a href="https://github.com/JayArrowz/SharpBlocks">SharpBlocks</a>
+</h3>
+
+C# trailing-block DSL transpiler with Roslyn language server, line-accurate debugging, and incremental MSBuild integration.
+
+<br />
+
+<a href="https://github.com/JayArrowz/SharpBlocks/">
+  <img src="https://img.shields.io/github/stars/JayArrowz/SharpBlocks?style=flat-square" alt="GitHub stars" />
+</a>
+
+</td>
+</tr>
+
 </table>
 
 <br />
