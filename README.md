@@ -311,7 +311,7 @@ Distributed rate limiting for .NET backed by your existing database. No Redis, n
   <a href="https://github.com/JayArrowz/SharpBlocks">SharpBlocks</a>
 </h3>
 
-C# trailing-block DSL transpiler with Roslyn language server, line-accurate debugging, and incremental MSBuild integration.
+Kotlin-style trailing block syntax for any C# builder API, with real C# type-checking and debugger mapping.
 
 <br />
 
