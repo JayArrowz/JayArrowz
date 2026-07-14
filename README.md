@@ -320,6 +320,26 @@ Kotlin-style trailing block syntax for any C# builder API, with real C# type-che
 </a>
 
 </td>
+
+<td valign="top" width="50%">
+
+<h3>
+  <a href="https://github.com/JayArrowz/IspcSharp">IspcSharp</a>
+</h3>
+
+SPMD-on-SIMD programming for C#, write scalar-looking kernels, run them across every SIMD lane and every CPU core. Inspired by Intel ISPC, built on System.Numerics.Vector<T> so the same code uses SSE, AVX2, AVX-512, or NEON at runtime.
+
+<br />
+
+
+<a href="https://www.nuget.org/packages/IspcSharp">
+  <img src="https://img.shields.io/nuget/v/IspcSharp.svg?style=flat-square" alt="NuGet" />
+</a>
+<a href="https://github.com/JayArrowz/IspcSharp/">
+  <img src="https://img.shields.io/github/stars/JayArrowz/IspcSharp?style=flat-square" alt="GitHub stars" />
+</a>
+
+</td>
 </tr>
 
 </table>
